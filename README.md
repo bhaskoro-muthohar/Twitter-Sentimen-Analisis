@@ -3,3 +3,13 @@
 # Twitter-Sentimen-Analisis
 > Proyek ini menggunakan metode Lexicon Sentimen Analisis untuk menganalisa sentimen.
 
+## Usage (Optional)
+> Gunakan **GetOldTweets3.ipynb** untuk melakukan scrapping data
+> Translate data yang sudah di mining menggunakan google spreadsheet
+> Lakukan pre-processing dan analisa sentimen **Lexicon Sentimen Analysis.ipynb**
+
+## Acknowledge
+
+- https://towardsdatascience.com/sentiment-analysis-on-swachh-bharat-using-twitter-216369cfa534
+- https://github.com/Mottl/GetOldTweets3
+
